@@ -1,0 +1,94 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.huangst.macfirstwork.BlankFragment"
+    android:orientation="vertical"
+    android:id="@+id/linearlayout">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt1"
+        android:text="listview test"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt4"
+        android:text="Creat database"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="查看联系人"
+        android:id="@+id/bt5"
+        android:layout_below="@id/bt4"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="运用手机程序 调取多媒体"
+        android:id="@+id/notificationtest"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="活动的启动模式"
+        android:id="@+id/launchmode"/>
+
+    <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/apptextdata"-->
+        <!--android:textSize="25dp"/>-->
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Service"
+        android:id="@+id/service"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RecyclerView"
+        android:id="@+id/recyclerview"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="uiwidgettest"
+        android:id="@+id/uiwidgetest"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="animation"
+        android:id="@+id/animation"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/draw"
+        android:text="draw"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/multouchtest"
+        android:text="multouch test"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/contentobserver"
+        android:text="短信验证码自动填入"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/apptextdata"/>
+</LinearLayout>

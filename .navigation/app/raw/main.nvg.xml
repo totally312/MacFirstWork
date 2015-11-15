@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.ContactsTest"/>
+      <point      
+        x = "500"      
+        y = "2860"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.UiWidgetTest"/>
+      <point      
+        x = "550"      
+        y = "2910"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.MulTouchTest"/>
+      <point      
+        x = "650"      
+        y = "3010"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.MyViewTest"/>
+      <point      
+        x = "600"      
+        y = "2960"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.ListViewActivity"/>
+      <point      
+        x = "700"      
+        y = "3060"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.AllRecyclerViewTest"/>
+      <point      
+        x = "500"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.MyListViewActivity"/>
+      <point      
+        x = "750"      
+        y = "3110"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.RecyclerViewTest"/>
+      <point      
+        x = "1768"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.MainActivity"/>
+      <point      
+        x = "800"      
+        y = "3160"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.ThirdActivity"/>
+      <point      
+        x = "900"      
+        y = "3260"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.Spinnertest"/>
+      <point      
+        x = "850"      
+        y = "3210"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.SmsTest"/>
+      <point      
+        x = "950"      
+        y = "3310"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.FirstActicity"/>
+      <point      
+        x = "1000"      
+        y = "3360"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.NotificationTest"/>
+      <point      
+        x = "1050"      
+        y = "3410"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.TimePickerDialogTest"/>
+      <point      
+        x = "1100"      
+        y = "3460"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.LayoutAnimationTest"/>
+      <point      
+        x = "1150"      
+        y = "3510"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.TestAndroidActivity"/>
+      <point      
+        x = "1200"      
+        y = "3560"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.SecondActivity"/>
+      <point      
+        x = "1250"      
+        y = "3610"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.CreateDatabase"/>
+      <point      
+        x = "1768"      
+        y = "1480"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.DataTest"/>
+      <point      
+        x = "500"      
+        y = "1480"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.RadioButtonTest"/>
+      <point      
+        x = "1300"      
+        y = "3660"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.DatePickerDialogTest"/>
+      <point      
+        x = "1350"      
+        y = "3710"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.AnotherRecyclerViewTest"/>
+      <point      
+        x = "1400"      
+        y = "3760"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.AnimationTest"/>
+      <point      
+        x = "1450"      
+        y = "3810"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.ListViewTest"/>
+      <point      
+        x = "1500"      
+        y = "3860"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.CheckBoxTest"/>
+      <point      
+        x = "1550"      
+        y = "3910"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.ServiceTest"/>
+      <point      
+        x = "1600"      
+        y = "3960"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.huangst.macfirstwork.FileData"/>
+      <point      
+        x = "1650"      
+        y = "4010"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

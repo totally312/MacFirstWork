@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.huangst.macfirstwork.AnimationTest"
+    android:orientation="vertical"
+    android:id="@+id/animationlinearlayout"
+    android:layoutAnimation="@anim/la">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Alpha Animation"
+        android:id="@+id/alpha"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="RotateAnimation"
+        android:id="@+id/rotate"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="TranslateAnimation"
+        android:id="@+id/translate"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="ScaleAnimation"
+        android:id="@+id/scale"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="AnimationSet"
+        android:id="@+id/set"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="My Animation"
+        android:id="@+id/myanimation"/>
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:text="begin animation_list"
+        android:id="@+id/begin"
+        android:layout_gravity="center"
+
+        style="@style/Button"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="stop animation_list"
+        android:id="@+id/stop"
+        android:layout_gravity="center"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/animation_image"
+        android:src="@drawable/wifi1"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutanimation"
+        android:text="layout animation"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
